@@ -1,0 +1,49 @@
+h1 {
+	text-align: center;
+
+}
+
+
+
+h2 {
+	text-align: center;
+	font-size: 18px;
+	font-weight: normal;
+	font-style: italic;
+}
+
+
+img { 
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+ }
+
+ .image-container p {
+ 	font-size: 14px;
+ 	color: gray;
+ 	font-style: italic;
+ }
+
+ .image-container {
+ 	text-align: center;
+
+ }
+
+ .content {
+ 	max-width: 800px;
+ 	margin-right: auto;
+ 	margin-left: auto;
+ }
+
+ h3 {
+ 	font-weight: bold;
+ }
+
+ .caption {
+ 	font-size: 14px;
+ 	color: gray;
+ 	font-style: italic;
+ 	text-align: center;
+
+ }
